@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranjitsingh2k6/Test.git"
+  },
+  "author": "Ranjit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranjitsingh2k6/Test/issues"
+  },
+  "homepage": "https://github.com/ranjitsingh2k6/Test#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
